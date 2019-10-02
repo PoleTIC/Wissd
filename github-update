@@ -1,0 +1,22 @@
+# Clone the repository
+
+  git clone https://github.com/wissd/wissd.github.io
+
+
+# Enter the project folder and add an index.html file:
+
+  cd wissd.github.io
+
+  gedit index.html
+
+
+
+# Push it Add, commit, and push your changes:
+
+  git config --global user.email "doudou.md.samir@gmail.com"
+
+  git add --all
+
+  git commit -m "doudou.md.samir@gmail.com"
+
+  git push -u origin master
